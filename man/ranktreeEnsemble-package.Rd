@@ -1,6 +1,6 @@
 \name{ranktreeEnsemble}
 \alias{ranktreeEnsemble}
-\alias{ranktreeEnsemble}
+\alias{ranktreeEnsemble-package}
 \docType{package}
 \title{
   Ensemble Models of Rank-Based Trees for Single Sample Classification with Interpretable Rules
