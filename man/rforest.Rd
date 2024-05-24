@@ -235,7 +235,7 @@ An object of class \code{(rfsrc, grow)} with the following
   \item{class.oob}{OOB predicted class labels.}\cr
 }
 \references{
-Lu M. Yin R. and Chen X.S. (2023). Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles.
+Lu M. Yin R. and Chen X.S. Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles. Journal of Translational Medicine. 22, 140 (2024). doi: 10.1186/s12967-024-04940-2
 }
 \author{
 Ruijie Yin (Maintainer,<ruijieyin428@gmail.com>), Chen Ye and Min Lu

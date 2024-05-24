@@ -1,0 +1,19 @@
+citHeader("To cite ranktreeEnsemble in publications use:")
+
+titl <- meta$Title
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date)
+vers <- paste("R package version", meta$Version)
+
+bibentry(bibtype="Article",
+         title  = "Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles",
+         author =  c(person(family="Lu", given="M."),person(family="Yin", given="R."),person(family="Chen", given="X.S.")),
+         journal      = "Journal of Translational Medicine",
+         year         = "2024",
+         volume       = "22",
+         pages        = "140",
+         url          = "https://doi.org/10.1186/s12967-024-04940-2",
+         textVersion =
+         paste("Lu M. Yin R. and Chen X.S. (2024). ",
+               "Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles. ",
+               "Journal of Translational Medicine. 22:140.",
+               sep=""))
