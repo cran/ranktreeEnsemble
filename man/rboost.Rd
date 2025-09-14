@@ -68,7 +68,7 @@ process. It must be positive but does not need to be normalized.}
     same model twice will result in similar but different fits. \code{gbm} uses
     the R random number generator so \code{set.seed} can ensure that the model
     can be reconstructed. Preferably, the user can save the returned
-    \code{\link{gbm.object}} using \code{\link{save}}. Default is 0.5.}
+    \code{\link[gbm:gbm.object]{gbm.object}} using \code{\link{save}}. Default is 0.5.}
 
   \item{train.fraction}{The first \code{train.fraction * nrows(data)}
     observations are used to fit the \code{gbm} and the remaining observations are used for
@@ -81,7 +81,7 @@ process. It must be positive but does not need to be normalized.}
 
   \item{keep.data}{a logical variable indicating whether to keep the data and
     an index of the data stored with the object. Keeping the data and index
-    makes subsequent calls to \code{\link{gbm.more}} faster at the cost of
+    makes subsequent calls to \code{\link[gbm:gbm.more]{gbm.more}} faster at the cost of
     storing an extra copy of the dataset.}
 
   \item{verbose}{Logical indicating whether or not to print out progress and
@@ -119,7 +119,7 @@ function for each boosting iteration.}
 length equal to the number of fitted trees containing an out-of-bag estimate
 of the marginal reduction in the expected value of the loss function. The
 out-of-bag estimate uses only the training data and is useful for estimating
-the optimal number of boosting iterations. See \code{\link{gbm.perf}}.}
+the optimal number of boosting iterations. See \code{\link[gbm:gbm.perf]{gbm.perf}}.}
 \item{cv.fitted}{If cross-validation was performed, the cross-validation
 predicted values on the scale of the linear predictor. That is, the fitted
 values from the i-th CV-fold, for the model having been trained on the data

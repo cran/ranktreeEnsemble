@@ -2,8 +2,8 @@ Package: ranktreeEnsemble
 Type: Package
 Title: Ensemble Models of Rank-Based Trees with Extracted Decision
         Rules
-Version: 0.23
-Date: 2024-05-22
+Version: 0.24
+Date: 2025-09-12
 Authors@R: c(
     person("Ruijie", "Yin", role = "aut"),
     person("Chen", "Ye", role = "aut"),
@@ -20,9 +20,9 @@ URL: https://github.com/TransBioInfoLab/ranktreeEnsemble/
 LazyData: TRUE
 RoxygenNote: 7.2.3
 NeedsCompilation: yes
-Packaged: 2024-05-24 00:51:25 UTC; min
+Packaged: 2025-09-14 03:15:41 UTC; minlu
 Repository: CRAN
-Date/Publication: 2024-05-24 03:50:02 UTC
+Date/Publication: 2025-09-14 03:40:02 UTC
 Author: Ruijie Yin [aut],
   Chen Ye [aut],
-  Min Lu [aut, cre] (<https://orcid.org/0000-0002-1386-1315>)
+  Min Lu [aut, cre] (ORCID: <https://orcid.org/0000-0002-1386-1315>)

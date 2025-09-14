@@ -1,4 +1,4 @@
-6d118b0c3c8fcd67e2a3363740c908ff *DESCRIPTION
+10856902f7276c9599d166166d0583f8 *DESCRIPTION
 6585fc23731b48ac2e1d099e88119878 *NAMESPACE
 7b7b7305b4cd03e058a6ecd5510e2d3d *R/RcppExports.R
 2175d67defa1dc8a5948a0043a23458a *R/hidden.R
@@ -17,7 +17,7 @@ b03bf1ce815fa601e4629c43f07e2e3a *inst/CITATION
 787a9110094b1b331d1beb36a0e32c43 *man/pair.Rd
 f24494a3af1a400914383e6e94f6255b *man/predict.Rd
 cd12ef7e3f40206081fc3c007ff40392 *man/ranktreeEnsemble-package.Rd
-1e5e9bc893f91b6c8b5dcbda83ad6337 *man/rboost.Rd
+a3444263aa47f1b8040f220ec16e2126 *man/rboost.Rd
 4fe502c7ea837614f149b6e2d4e108ae *man/rforest.Rd
 5e7f209a3df39715958e722926a52e51 *man/select.rules.Rd
 a868c9bdd1d583b964d5de25b60ae0da *man/tnbc.Rd
